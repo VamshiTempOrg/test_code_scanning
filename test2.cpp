@@ -1,8 +1,7 @@
 #include<iostream>
 
 int main() {
-  int a = 10
-    int b = 10;
-  int c= a+b;
-  cout<<c<<endl;
+ char str[16];
+  gets(str);
+  return 0;
 }
